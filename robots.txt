@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gulp-commerce.github.io/website_pelican/sitemap.xml
