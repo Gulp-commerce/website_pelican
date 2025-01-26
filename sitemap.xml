@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://gulp-commerce.github.io/website_pelican/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://pelicanpicks.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://gulp-commerce.github.io/website_pelican/</loc>
+<loc>https://pelicanpicks.com/</loc>
 </url>
 <url>
-<loc>https://gulp-commerce.github.io/website_pelican/datenschutzerklaerung.html</loc>
+<loc>https://pelicanpicks.com/datenschutzerklaerung.html</loc>
 <lastmod>2025-01-19T14:13:38+01:00</lastmod>
 </url>
 <url>
-<loc>https://gulp-commerce.github.io/website_pelican/get-in-contact.html</loc>
+<loc>https://pelicanpicks.com/get-in-contact.html</loc>
 <lastmod>2025-01-19T13:26:10+01:00</lastmod>
 <image:image>
-<image:loc>https://gulp-commerce.github.io/website_pelican/media/posts/2/kaleb-tapp-J59wWPn09BE-unsplash.jpg</image:loc>
+<image:loc>https://pelicanpicks.com/media/posts/2/kaleb-tapp-J59wWPn09BE-unsplash.jpg</image:loc>
 <image:title><![CDATA[arrow down]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://gulp-commerce.github.io/website_pelican/impressum.html</loc>
+<loc>https://pelicanpicks.com/impressum.html</loc>
 <lastmod>2025-01-19T13:19:40+01:00</lastmod>
 </url>
 </urlset>

@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Pelican Picks",
     "description": "",
-    "home_page_url": "https://gulp-commerce.github.io/website_pelican",
-    "feed_url": "https://gulp-commerce.github.io/website_pelican/feed.json",
+    "home_page_url": "https://pelicanpicks.com",
+    "feed_url": "https://pelicanpicks.com/feed.json",
     "user_comment": "",
-    "icon": "https://gulp-commerce.github.io/website_pelican/media/website/adrian_a97_friendly_pelican_logo_drawing_fe554a65-5b02-4f5e-8746-71fa56c2d228-1.png",
+    "icon": "https://pelicanpicks.com/media/website/adrian_a97_friendly_pelican_logo_drawing_fe554a65-5b02-4f5e-8746-71fa56c2d228-1.png",
     "author": {
         "name": "Adrian Astheimer"
     },

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Pelican Picks</title>
-    <link href="https://gulp-commerce.github.io/website_pelican/feed.xml" rel="self" />
-    <link href="https://gulp-commerce.github.io/website_pelican" />
+    <link href="https://pelicanpicks.com/feed.xml" rel="self" />
+    <link href="https://pelicanpicks.com" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Adrian Astheimer</name>
     </author>
-    <id>https://gulp-commerce.github.io/website_pelican</id>
+    <id>https://pelicanpicks.com</id>
 
 </feed>
